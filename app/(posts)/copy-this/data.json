@@ -1,0 +1,143 @@
+{
+    "title": "This is a test",
+    "description": "In this article, we'll show you, how a new test is made with this porcess.",
+    "coverImage": "/logo.png",
+    "authors": [
+        {
+            "name": "Levente Botos",
+            "url": "/authors/levente-botos"
+        }
+    ],
+    "time": "15 mins",
+    "contents": [
+    {
+        "title": "This is the first",
+        "id": "first",
+        "type": "1",
+        "p1": "This is the first bigger text in the first Section. I don't really knwo what to write here, or how long it should be.",
+        "p2": "This is the second bigger text in the first Section. I don't really knwo what to write here, or how long it should be.",
+        "cards": [
+            { 
+                "title": "Title of the first card",
+                "description": "This is the title of the first card. I don't really knwo what to write here.",
+                "content": ""
+            },
+            { 
+                "title": "Title of the second card",
+                "description": "This is the title of the second card. I don't really knwo what to write here.",
+                "content": ""
+            }
+        ],
+        "content1": "",
+        "content2": "",
+        "recommended": [
+            {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              }    
+        ]
+    },
+    {
+        "title": "This is the second",
+        "id": "second",
+        "type": "1",
+        "p1": "This is the first bigger text in the second Section. I don't really knwo what to write here, or how long it should be.",
+        "p2": "This is the second bigger text in the second Section. I don't really knwo what to write here, or how long it should be.",
+        "cards": [
+            { 
+                "title": "Title of the first card",
+                "description": "This is the title of the first card. I don't really knwo what to write here.",
+                "content": ""
+            },
+            { 
+                "title": "Title of the second card",
+                "description": "This is the title of the second card. I don't really knwo what to write here.",
+                "content": ""
+            },
+            { 
+                "title": "Title of the first card",
+                "description": "This is the title of the first card. I don't really knwo what to write here.",
+                "content": ""
+            },
+            { 
+                "title": "Title of the second card",
+                "description": "This is the title of the second card. I don't really knwo what to write here.",
+                "content": ""
+            }
+        ],
+       
+        "content": "<div class=' flex flex-col justify-evenly bg-opacity-10 bg-white text-center w-full h-96 rounded-lg'><p>hihello</p></div>",
+        "recommended": []
+    },
+    {
+        "title": "This is the third",
+        "id": "third",
+        "type": "2",
+        "p1": "This is the first bigger text in the third Section. I don't really knwo what to write here, or how long it should be.",
+        "p2": "This is the second bigger text in the third Section. I don't really knwo what to write here, or how long it should be.",
+        "sides": [
+            { 
+                "title": "Title of the first ",
+                "description": "This is the title of the first. I don't really knwo what to write here.",
+                "content": "",
+                "img": "/logo.png"
+            },
+            { 
+                "title": "Title of the second ",
+                "description": "This is the title of the second. I don't really knwo what to write here.",
+                "content": "",
+                "img": "/logo.png"
+            }
+        ],
+        "content1": "",
+        "content2": "",
+        "recommended": [
+            {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              },
+              {
+                "name": "SUEHIODHY 75% RGB Tri-Mode Hot-Swap Keyboard Kit",
+                "url": "https://amzn.to/3GJGNxp",
+                "img": "https://m.media-amazon.com/images/I/619RZqzTjBL._AC_SX679_.jpg",
+                "price": "59$"
+              }    
+        ]
+    }
+    ]
+   
+}

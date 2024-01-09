@@ -1,0 +1,99 @@
+{
+	"title": "How To Choose the Best Mouse Under $50",
+	"description": "In this guide, we will show you, how to pick the best mouse that suits your liking. All this, while staying under 50 USD.",
+	"coverImage": "/images/best-mouse-under-50/1.jpeg",
+	"authors": [
+		{
+			"name": "Darius Zachar",
+			"url": "/author/darius-zachar"
+		}
+	],
+	"time": "2-3 minutes",
+	"contents": [
+		{
+			"title": "The different mouse types",
+			"id": "mouse-types",
+			"type": "1",
+			"p1": "Wired mice: Classic Convenience\nWired mice are the ones mostly used in offices and homes. It does what it's supposed to do but it's not the most optimal for gaming, although there are some gaming mice that have been specially designed both externally and internally like software wise.",
+			"p2": "Wireless mice: Efficiency and Minimalism\nWireless mice are not commonly seen in offices neither at homes. There is no difference other then some people got angered by the cable getting stuck or it’s hard to hide it. There is no difference only preference.",
+			"cards": [],
+			"sides": [],
+			"content1": "",
+			"content2": "",
+			"recommended": []
+		},
+		{
+			"title": "Pros and cons of types",
+			"id": "pros-cons",
+			"type": "1",
+			"p1": "These are the pros and cons of the two major types:",
+			"p2": "",
+			"cards": [],
+			"sides": [],
+			"content1": "<div class='flex list-disc flex-row justify-evenly w-full'><ul class='list-disc'><li><strong>Pros and Cons of Wired Mice:</strong></li><li>Always on if plugged into the computer</li><li>Cheaper</li></ul><ul class='list-disc'><li><strong>Pros and Cons of Wireless Mice:</strong></li><li>Has a battery that drains over time with usage</li><li>More expensive</li></ul></div>",
+			"content2": "",
+			"recommended": []
+		},
+		{
+			"title": "The different mouse categories",
+			"id": "mouse-categories",
+			"type": "1",
+			"p1": "Light Weight Mouse A mouse is considered “light” if its weight is under 80g but most of the mice that you can find with a “Light weight” title are below 70g most of the times. This mouse type is the best if you want to move it rapidly or you want to use it for longer periods of time.",
+			"p2": "Heavy Weight Mouse A mouse is considered “heavy” if its weight is above that 70g breakpoint, but the heaviest mouse is the “ASUS ROG Spatha” with a shocking 183g. This mouse type is the best for FPS games, because of the weight its much easier to control the aim.",
+			"cards": [],
+			"sides": [],
+			"content1": "",
+			"content2": "",
+			"recommended": []
+		},
+		{
+			"title": "How to decide which one you should use",
+			"id": "decision",
+			"type": "1",
+			"p1": "After understanding the various categories and types of mice, the ultimate decision lies in personal preference. It's recommended to:",
+			"p2": "Visit a store to physically examine featured mice.\nAssess factors such as size, grip, and overall comfort.\nTest both heavier and lighter mice to determine your preference.\nDecide between wired and wireless based on your specific needs.\n",
+			"cards": [],
+			"sides": [],
+			"content1": "",
+			"content2": "",
+			"recommended": [
+				{
+					"name": "Logitech G203 Lightsync",
+					"url": "https://amzn.to/3GIE47m",
+					"img": "https://m.media-amazon.com/images/I/51j0DiJgqoL._AC_SL1500_.jpg",
+					"price": "50$"
+				},
+				{
+					"name": "Razer Basilisk V3",
+					"url": "https://amzn.to/41r8iWb",
+					"img": "https://m.media-amazon.com/images/I/61AcT0ZuO3L._AC_SX679_.jpg",
+					"price": "50$"
+				},
+				{
+					"name": "Logitech G502 HERO",
+					"url": "https://amzn.to/3NtnFYk",
+					"img": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SX679_.jpg",
+					"price": "40$"
+				},
+				{
+					"name": "Glorious Model O-",
+					"url": "https://amzn.to/3Tl0KSK",
+					"img": "https://m.media-amazon.com/images/I/71iS3zaTAAL._AC_SX679_.jpg",
+					"price": "50$"
+				},
+				{
+					"name": "ROCCAT Burst Pro Air",
+					"url": "https://amzn.to/3TnKHUh",
+					"img": "https://m.media-amazon.com/images/I/71CdNUA46fL._AC_SY879_.jpg",
+					"price": "50$"
+				},
+				{
+					"name": "Steelseries Rival 6000",
+					"url": "https://amzn.to/48eA9Lc",
+					"img": "https://m.media-amazon.com/images/I/610oAxNTxSL._AC_SY879_.jpg",
+					"price": "46$"
+				}
+			]
+		}
+	]
+}
